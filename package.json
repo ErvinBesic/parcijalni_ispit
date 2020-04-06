@@ -1,0 +1,25 @@
+{
+  "name": "ispit",
+  "version": "1.0.0",
+  "description": "ispit",
+  "main": "index.js",
+  "scripts": {
+    "test": "ispit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErvinBesic/parcijalni_ispit.git"
+  },
+  "keywords": [
+    "ispit"
+  ],
+  "author": "ervin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ErvinBesic/parcijalni_ispit/issues"
+  },
+  "homepage": "https://github.com/ErvinBesic/parcijalni_ispit#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
